@@ -1,0 +1,22 @@
+body{
+    font: normal 15pt Arial;
+}
+header{
+    text-align: center;
+    color: orange;
+}
+section{
+    width: 450px;
+    background-color: darkorange;
+    border-radius: 8px;
+    margin: auto;
+    padding: 5px;
+}
+footer{
+    text-align: center;
+    color: orange;
+    padding: 18px;
+}
+select {
+    width: 150px;
+}
